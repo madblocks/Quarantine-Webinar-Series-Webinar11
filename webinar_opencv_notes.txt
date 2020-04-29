@@ -1,0 +1,32 @@
+Welcome you all to the webinar on opencv.
+OpenCV - openComputerVision - open source library wrapped up in
+C, C++, Java and Python.
+Image Processing Toolbox 
+
+Pre-Requisties:
+1. Python Interpreter - Python3 - www.python.org/downloads
+2. Anaconda Navigator - www.anaconda.com - Advanced openCV applications
+
+lets check python.org for a quick minute and also anaconda.com
+
+Installation of openCV on Anaconda 
+pip install opencv-contrib-python 
+
+Example - 1: imread, imshow
+                Reading an image from the folder and showing it to the user
+
+Example - 2: imwrite
+                Reading an image and writing the image  and written image has to be displayed to user
+
+Example - 3: Image Acquisition
+                Reading an image through camera and showing it to the user
+
+Example - 4: Save the Image Captured through Image Acquisition
+               Capture the Image and Storing it in the folder
+
+imread - reading static images
+cam.read - reading frames through camera
+
+Example -5: Resizing the Image 
+Example - 6: Masking the Image with Yellow Color
+
